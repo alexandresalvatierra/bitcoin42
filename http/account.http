@@ -1,0 +1,9 @@
+### Create
+POST http://localhost:8000/account
+content-type: application/json
+
+{
+  "name": "Jhon Doe",
+  "email": "jhon-doe@mail.com",
+  "password": "1234"
+}
