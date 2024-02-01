@@ -12,7 +12,7 @@
 
 Se não for incomodar, veja a arquitetura da plataforma abaixo:
 
-- [System design](docs/design-system.jpg)
+- [System design](docs/system-design-high-level)
 
 ## Instalação - Ambiente de desenvolvimento local
 
